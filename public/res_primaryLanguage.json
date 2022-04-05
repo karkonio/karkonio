@@ -1,0 +1,79 @@
+{
+    "basic_info": {
+      "description_header": "Hello!",
+      "description": "👋 I'm Karina. I'm python back-end developer offering 3+ years of IT experience with a background of experience in IoT. Aiming to develop my skills and participate in the creation of a cool international high-load project. Сheck out my experience and feel free to contact me on the social networks below",
+      "section_name": {
+        "about": "About me",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "experience": [
+      {
+        "company": "KASE/ kase.kz",
+        "title": "Back-End Developer",
+        "years": "03.2021 - present",
+        "mainTech": [
+          "Django"
+        ],
+        "technologies": [
+          "Python",
+          "MySQL",
+          "Docker",
+          "Ansible",
+          "Redis",
+          "JavaScript",
+          "pytest/unitest/webtest"
+
+        ]
+      },
+      {
+        "company": "Doovertech/ doovertech.com",
+        "title": "Back-End Developer",
+        "years": "10.2020 - 02.2021",
+        "mainTech": [
+          "Django"
+        ],
+        "technologies": [
+          "Python",
+          "PostGIS",
+          "Docker"
+        ]
+      },
+      {
+        "company": "Biometric/ biometric.kz",
+        "title": "Back-End Developer",
+        "years": "08.2019 - 10.2020",
+        "mainTech": [
+          "Django"
+        ],
+        "technologies": [
+          "Python",
+          "DRF",
+          "REST API",
+          "PostgreSQL",
+          "Docker",
+          "Bootstrap",
+          "RabbitMQ",
+          "Celery",
+          "Sentry",
+          "Gitlab CI/CD",
+          "Vue"
+        ]
+      },
+      {
+        "company": "Robarin/ robarin.pro",
+        "title": "Intern",
+        "years": "12.2018 - 03.2019",
+        "mainTech": [
+          "Flask"
+        ],
+        "technologies": [
+          "Python",
+          "pytest",
+          "Selenium",
+          "REST API"
+        ]
+      }
+    ]
+  }

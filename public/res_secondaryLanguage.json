@@ -1,0 +1,79 @@
+{
+    "basic_info": {
+      "description_header": "Привет!",
+      "description": "👋 Я Карина. Я back-end разработчик Python, предлагающий более 3 лет опыта работы в сфере IT с опытом работы с IoT. Стремлюсь развивать свои скилы и хочу поучаствовать в создании крутого международного высоконагруженного проекта. Ознакомьтесь с моим опытом и не стесняйтесь связаться со мной в соц. сетях, указанных ниже.",
+      "section_name": {
+        "about": "Обо мне",
+        "skills": "Технологии",
+        "experience": "Опыт"
+      }
+    },
+    "experience": [
+      {
+        "company": "KASE/ kase.kz",
+        "title": "Back-End разработчик",
+        "years": "03.2021 - present",
+        "mainTech": [
+          "Django"
+        ],
+        "technologies": [
+          "Python",
+          "MySQL",
+          "Docker",
+          "Ansible",
+          "Redis",
+          "JavaScript",
+          "pytest/unitest/webtest"
+
+        ]
+      },
+      {
+        "company": "Doovertech/ doovertech.com",
+        "title": "Back-End разработчик",
+        "years": "10.2020 - 02.2021",
+        "mainTech": [
+          "Django"
+        ],
+        "technologies": [
+          "Python",
+          "PostGIS",
+          "Docker"
+        ]
+      },
+      {
+        "company": "Biometric/ biometric.kz",
+        "title": "Back-End разработчик",
+        "years": "08.2019 - 10.2020",
+        "mainTech": [
+          "Django"
+        ],
+        "technologies": [
+          "Python",
+          "DRF",
+          "REST API",
+          "PostgreSQL",
+          "Docker",
+          "Bootstrap",
+          "RabbitMQ",
+          "Celery",
+          "Sentry",
+          "Gitlab CI/CD",
+          "Vue"
+        ]
+      },
+      {
+        "company": "Robarin/ robarin.pro",
+        "title": "Стажёр",
+        "years": "12.2018 - 03.2019",
+        "mainTech": [
+          "Flask"
+        ],
+        "technologies": [
+          "Python",
+          "pytest",
+          "Selenium",
+          "REST API"
+        ]
+      }
+    ]
+}

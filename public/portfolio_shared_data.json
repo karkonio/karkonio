@@ -1,0 +1,86 @@
+{
+    "basic_info": {
+      "name": "Karina Yesbukenova",
+      "titles": [ "Back-end Developer", "Python Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/karkonio",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "gitlab",
+          "url": "https://gitlab.com/karkonio",
+          "class": "fab fa-gitlab"
+        },
+        {
+          "name": "telegram",
+          "url": "https://t.me/karkonio",
+          "class": "fab fa-telegram"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/yesbukenova/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "discord",
+          "url": "https://discord.com/channels/korka#6325",
+          "class": "fab fa-discord"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Python",
+          "class": "devicon-python-plain"
+        },
+        {
+          "name": " Flask",
+          "class": "devicon-flask-original"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain"
+        },
+        {
+          "name": "pytest",
+          "class": "devicon-pytest-plain"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain"
+        },
+        {
+          "name": "PostgreSql",
+          "class": "devicon-postgresql-plain"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain"
+        },
+        {
+          "name": "Ansible",
+          "class": "devicon-ansible-plain"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain"
+        },
+        {
+          "name": "bash",
+          "class": "devicon-bash-plain"
+        },
+        {
+          "name": "git",
+          "class": "devicon-git-plain"
+        }
+      ]
+    }
+  }
