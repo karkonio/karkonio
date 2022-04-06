@@ -1,7 +1,7 @@
 <img src="./public/images/hero.svg" alt="Hero image">
 
 <p align="center">
-Check out ✨
+Check out <a href="https://karkonio.github.io/karkonio/">site</a>  ✨
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=karkonio&show_icons=true&theme=nord)
 </p>
