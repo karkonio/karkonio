@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/karkonio/static/css/main.314d4e9c.css",
+    "main.js": "/karkonio/static/js/main.a8992e40.js",
+    "index.html": "/karkonio/index.html",
+    "main.314d4e9c.css.map": "/karkonio/static/css/main.314d4e9c.css.map",
+    "main.a8992e40.js.map": "/karkonio/static/js/main.a8992e40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.314d4e9c.css",
+    "static/js/main.a8992e40.js"
+  ]
+}
